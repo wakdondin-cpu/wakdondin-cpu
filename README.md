@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Wak Dondin!
 
-<!--
-**wakdondin-cpu/wakdondin-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐾 Founder of [Meowcing.my.id](https://meowcing.my.id)
 
-Here are some ideas to get you started:
+A tech enthusiast who loves exploring servers, automation, and of course... cats! Currently building the ultimate community for cat lovers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Toolbox
+- **OS:** OpenCloudOS, Linux
+- **Web:** Nginx, Tailwind CSS, HTML/CSS
+- **Tools:** Git, SSH, Certbot
+- **Passion:** Server Hardening & Cat Welfare
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=wakdondin-cpu&show_icons=true&theme=radical" alt="wakdondin-cpu's stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakdondin-cpu&layout=compact&theme=radical" alt="top langs" height="180px" />
+</p>
+
+---
+
+### 🐱 Fun Fact
+I probably spend more time talking to my server than my cat... but don't tell the cat!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wakdondin-cpu&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+</p>
