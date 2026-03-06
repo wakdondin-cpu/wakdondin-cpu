@@ -1,32 +1,36 @@
-# 👋 Hi, I'm Wak Dondin!
+# 👋 Wak Dondin | Founder of Meowcing
 
-### 🐾 Founder of [Meowcing.my.id](https://meowcing.my.id)
+<p align="left">
+  <img src="https://img.shields.io/badge/OPERASIONAL-AKTIF-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOKUS-KOMUNITAS_KUCING-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/PERAN-FOUNDER-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/INFRA-OPENCLOUD_OS-red?style=flat-square" />
+</p>
 
-I am a technology enthusiast passionate about **server automation**, **web development**, and building communities for **cat lovers**.
-
----
-
-### 🔭 Projects
-- **[Meowcing](https://github.com/wakdondin-cpu/meowcing)**: A landing page and community platform for cat enthusiasts.
-- **Server Lab**: Exploring OpenCloudOS, Nginx, and SSL automation.
-
-### 🛠 Tech Stack
-- **Languages & Frameworks**: HTML5, Tailwind CSS, JavaScript.
-- **Tools & Platforms**: Linux (OpenCloudOS), Nginx, Git, Docker, Certbot.
+## 💬 Ringkasan Profil
+Saya adalah Founder dari **[Meowcing.my.id](https://meowcing.my.id)**, sebuah ekosistem digital yang didedikasikan untuk pecinta kucing di Indonesia. Fokus saya adalah membangun layanan komunitas yang terkelola dengan baik melalui infrastruktur server yang handal dan otomatisasi yang cerdas.
 
 ---
 
-### 📈 GitHub Activity
-![Wak Dondin Stats](https://github-readme-stats.vercel.app/api?username=wakdondin-cpu&show_icons=true&theme=transparent&title_color=ff9900&text_color=555&icon_color=ff9900)
+## 🚀 Persenjataan Teknis
+*   **Inti:** Manajemen Komunitas, Strategi Digital, Otomatisasi Alur Kerja.
+*   **Backend & Server:** OpenCloudOS, Nginx, Linux Administration.
+*   **Web & Desain:** Tailwind CSS, HTML5, Desain Responsif.
+*   **Tools & Devops:** Git, SSH, Certbot, Docker.
+*   **Spesialisasi:** Implementasi SSL, Server Hardening, Manajemen Domain.
 
 ---
 
-### 📫 Get in touch
-- **Website**: [meowcing.my.id](https://meowcing.my.id)
-- **Location**: Indonesia 🇮🇩
+## 📈 Statistik Aktivitas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wakdondin-cpu&show_icons=true&theme=transparent&title_color=orange&text_color=555&icon_color=orange" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakdondin-cpu&layout=compact&theme=transparent&title_color=orange&text_color=555" height="150" />
+</p>
 
 ---
 
 <p align="center">
-  <i>"Code, Sleep, Meow, Repeat."</i> 🐾
+  <img src="https://komarev.com/ghpvc/?username=wakdondin-cpu&color=orange&style=flat-square&label=VISITOR+COUNT" />
+  <br>
+  <i>"Membangun teknologi dengan hati untuk para anabul."</i> 🐾
 </p>
