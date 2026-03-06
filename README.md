@@ -1,59 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wak%20Dondin&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+# 👋 Hi, I'm Wak Dondin!
 
-  <h3>👋 Halo! Saya Wak Dondin, seorang antusias server & pecinta kucing.</h3>
+### 🐾 Founder of [Meowcing.my.id](https://meowcing.my.id)
 
-  <p align="center">
-    <a href="https://meowcing.my.id"><img src="https://img.shields.io/badge/Website-Meowcing.my.id-orange?style=for-the-badge&logo=icloud&logoColor=white" /></a>
-    <a href="mailto:wakdondin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+I am a technology enthusiast passionate about **server automation**, **web development**, and building communities for **cat lovers**.
 
 ---
 
-### 🐱 Tentang Saya
-Saya sedang membangun **[Meowcing](https://meowcing.my.id)**, komunitas digital untuk para pecinta kucing di Indonesia. Selain ngurusin anabul, saya hobi ngoprek server, otomatisasi, dan belajar teknologi cloud terbaru.
+### 🔭 Projects
+- **[Meowcing](https://github.com/wakdondin-cpu/meowcing)**: A landing page and community platform for cat enthusiasts.
+- **Server Lab**: Exploring OpenCloudOS, Nginx, and SSL automation.
 
-- 🔭 **Sedang Mengerjakan:** Optimasi server Meowcing & Landing Page.
-- 🌱 **Sedang Belajar:** Keamanan Server & Web Performance.
-- 💬 **Tanya Saya Tentang:** Linux, Nginx, SSL, dan tips merawat kucing.
-- ⚡ **Fun Fact:** Server saya lebih sering "meong" (error) daripada kucing saya sendiri.
-
----
-
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCloudOS-ED1C24?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+### 🛠 Tech Stack
+- **Languages & Frameworks**: HTML5, Tailwind CSS, JavaScript.
+- **Tools & Platforms**: Linux (OpenCloudOS), Nginx, Git, Docker, Certbot.
 
 ---
 
-### 📊 GitHub Dashboard
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wakdondin-cpu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakdondin-cpu&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
+### 📈 GitHub Activity
+![Wak Dondin Stats](https://github-readme-stats.vercel.app/api?username=wakdondin-cpu&show_icons=true&theme=transparent&title_color=ff9900&text_color=555&icon_color=ff9900)
+
+---
+
+### 📫 Get in touch
+- **Website**: [meowcing.my.id](https://meowcing.my.id)
+- **Location**: Indonesia 🇮🇩
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakdondin-cpu&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <i>"Code, Sleep, Meow, Repeat."</i> 🐾
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wakdondin-cpu&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wakdondin-cpu&color=orange&style=flat-square&label=VISITOR+COUNT" />
-  <br>
-  <i>"Karena setiap baris kode adalah bentuk kasih sayang untuk anabul."</i> 🐾
-</div>
